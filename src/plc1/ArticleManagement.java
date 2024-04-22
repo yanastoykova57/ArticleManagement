@@ -1,9 +1,4 @@
 package plc1;
-
-/**
- * @author Yana Stoykova
- * @id 11916925
- */
 import java.text.DecimalFormat;
 import java.util.*;
 import java.util.stream.Collectors;
