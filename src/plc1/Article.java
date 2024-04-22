@@ -2,7 +2,6 @@ package plc1;
 
 /**
  * @author Yana Stoykova
- * @id 11916925
  */
 import java.io.Serializable;
 import java.text.DecimalFormat;
